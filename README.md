@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **graphical programming**
 
 - 👨‍💻 All of my projects are available at [github.com/yzaazaa](github.com/yzaazaa)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzaazaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="yzaazaa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzaazaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="yzaazaa" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
