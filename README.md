@@ -5,7 +5,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yzaazaa?UM6P=off" alt="yzaazaa's 42 stats" /></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzaazaa&label=Profile%20views&color=8703c4&style=flat" alt="yzaazaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yzaazaa" alt="yzaazaa" /></a> </p>
