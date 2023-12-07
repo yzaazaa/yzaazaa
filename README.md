@@ -28,7 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzaazaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="yzaazaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzaazaa&show_icons=true&theme=dark&locale=en" alt="yzaazaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yzaazaa&theme=dark" alt="yzaazaa" /></p>
 
