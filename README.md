@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yzaazaa" alt="yzaazaa" /></a> </p>
 
-- 🔭 I’m currently working on [push_swap](github.com/yzaazaa/fract-ol)
+- 🔭 I’m currently working on [fract-ol](github.com/yzaazaa/fract-ol)
 
 - 🌱 I’m currently learning **graphical programming**
 
