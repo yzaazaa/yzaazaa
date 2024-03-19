@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [cpp](github.com/yzaazaa/Cpp)
 
-- 🌱 I’m currently learning **executing shell commands with c through a shell-like program**
+- 🌱 I’m currently learning **object oriented programming with cpp**
 
 - 👨‍💻 All of my projects are available at [github.com/yzaazaa](github.com/yzaazaa)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzaazaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="yzaazaa" /></p>
