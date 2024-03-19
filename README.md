@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yzaazaa" alt="yzaazaa" /></a> </p>
 
-- 🔭 I’m currently working on [philosophers](github.com/yzaazaa/Minishell)
+- 🔭 I’m currently working on [cpp](github.com/yzaazaa/Cpp)
 
 - 🌱 I’m currently learning **executing shell commands with c through a shell-like program**
 
