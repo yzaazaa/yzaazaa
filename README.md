@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yzaazaa" alt="yzaazaa" /></a> </p>
 
-- 🔭 I’m currently working on [cpp](github.com/yzaazaa/cpp)
+- 🔭 I’m currently working on [python]
 
 - 🌱 I’m currently learning **object oriented programming with cpp**
 
